@@ -3,7 +3,9 @@
 ## Group Roles 
 
 Ashleigh Curry and Theresa Trinh - Data Cleaning 
+
 Caroline Wynne - Visualizations
+
 Kelsey Matsik and Tori Fredell - Data Cleaning / Model Building
 
 
